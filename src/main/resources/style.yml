@@ -80,5 +80,5 @@ partnerNotAccepted: "grey dye"
 # ready and wait for partner: "lime glass pane"                      #
 # accepted and wait for partner: "lime glass pane"                   #
 ######################################################################
-readyAndWaitForPartner: "lime glass pane"
-acceptedAndWaitForPartner: "lime glass pane"
+readyAndWaitForPartner: "lime stained glass pane"
+acceptedAndWaitForPartner: "lime stained glass pane"
